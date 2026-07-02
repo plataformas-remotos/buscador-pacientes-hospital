@@ -17,8 +17,8 @@
   <div class="cmp-notice">
     Esta lista se actualiza periódicamente a partir de los registros compartidos por el equipo del hospital.
     Si no encuentra a su familiar, puede que aún no haya sido ingresado al sistema o esté en otra institución.
-    Para verificar en persona o reportar un error en un registro, comuníquese con el
-    <strong>Hospital General &quot;Dr. Miguel Pérez Carreño&quot; IVSS</strong> — Tel: <strong>0212-472-8471</strong>.
+    Para verificar en persona o reportar un error en un registro, acuda al
+    <strong>Hospital General &quot;Dr. Miguel Pérez Carreño&quot; IVSS</strong>.
     Dirección: <strong>Calle La Industria, Caracas 1020, Distrito Capital</strong>.
   </div>
 
@@ -65,8 +65,8 @@
   <div id="cmp-empty" class="cmp-empty cmp-hidden">
     <p><strong>No se encontraron resultados.</strong></p>
     <p>Revise que el nombre o la cédula estén escritos correctamente, o intente buscar solo con el apellido.
-    Si continúa sin encontrar a su familiar, comuníquese con el
-    <strong>Hospital General &quot;Dr. Miguel Pérez Carreño&quot; IVSS</strong> — Tel: <strong>0212-472-8471</strong>.</p>
+    Si continúa sin encontrar a su familiar, acuda al
+    <strong>Hospital General &quot;Dr. Miguel Pérez Carreño&quot; IVSS</strong>.</p>
   </div>
 
   <div id="cmp-browse-section" class="cmp-browse-section">
@@ -315,13 +315,20 @@
     padding: 9px 14px;
     font-size: 0.88rem;
     border-top: 1px solid var(--cmp-border);
+  }
+  .cmp-area-row:first-child { border-top: none; }
+  .cmp-area-row-main {
     display: flex;
     flex-wrap: wrap;
     gap: 4px 10px;
   }
-  .cmp-area-row:first-child { border-top: none; }
   .cmp-area-row-name { font-weight: 600; color: var(--cmp-text); }
   .cmp-area-row-meta { color: var(--cmp-muted); }
+  .cmp-area-row-obs {
+    margin-top: 4px;
+    font-size: 0.82rem;
+    color: var(--cmp-text);
+  }
 
   @media (max-width: 480px) {
     .cmp-title { font-size: 1.25rem; }
@@ -523,8 +530,13 @@
         ];
         if (p.cedula) parts.push('<span class="cmp-area-row-meta">C.I. ' + escapeHtml(p.cedula) + '</span>');
         if (p.edad) parts.push('<span class="cmp-area-row-meta">' + escapeHtml(p.edad) + '</span>');
+        if (p.sexo) parts.push('<span class="cmp-area-row-meta">' + (p.sexo === "M" ? "Masculino" : p.sexo === "F" ? "Femenino" : escapeHtml(p.sexo)) + '</span>');
+        if (p.procedencia) parts.push('<span class="cmp-area-row-meta">' + escapeHtml(p.procedencia) + '</span>');
         if (p.ubicacion) parts.push('<span class="cmp-area-row-meta">' + escapeHtml(p.ubicacion) + '</span>');
-        row.innerHTML = parts.join("");
+        if (p.ingreso) parts.push('<span class="cmp-area-row-meta">Ingreso: ' + escapeHtml(p.ingreso) + '</span>');
+        var html = '<div class="cmp-area-row-main">' + parts.join("") + '</div>';
+        if (p.obs) html += '<div class="cmp-area-row-obs">' + escapeHtml(p.obs) + '</div>';
+        row.innerHTML = html;
         rows.appendChild(row);
       });
       details.appendChild(rows);
@@ -539,6 +551,10 @@
     .then(function (res) { return res.ok ? res.json() : Promise.reject(new Error("HTTP " + res.status)); })
     .then(function (data) {
       if (!Array.isArray(data) || data.length === 0) return;
+      if (data.length < PATIENTS.length) {
+        console.warn("La lista en vivo tiene menos registros (" + data.length + ") que la versión guardada en la página (" + PATIENTS.length + "); se mantiene la más completa.");
+        return;
+      }
       PATIENTS = data;
       totalSpan.textContent = PATIENTS.length;
       refreshFilterOptions();
