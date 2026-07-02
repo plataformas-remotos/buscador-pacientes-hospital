@@ -7,7 +7,7 @@
   "sexo": "M",
   "procedencia": "Junquito",
   "ubicacion": "",
-  "ingreso": "",
+  "ingreso": "11-6-26",
   "obs": ""
  },
  {
@@ -52,7 +52,7 @@
   "procedencia": "Chacao",
   "ubicacion": "",
   "ingreso": "23-6-26",
-  "obs": ""
+  "obs": "También registrado como \"Stomeo Manrrique, Domingo\", 53 años (en vez de 59), en el censo del 01-07-2026."
  },
  {
   "area": "MEDICINA I — Piso 2",
@@ -63,7 +63,7 @@
   "procedencia": "Catia",
   "ubicacion": "",
   "ingreso": "20-6-26",
-  "obs": ""
+  "obs": "⚠ Verificar identidad en persona: mismo C.I. registrado como \"Martínez Ariendez, Maikol\" en el censo del 01-07-2026."
  },
  {
   "area": "MEDICINA I — Piso 2",
@@ -85,7 +85,7 @@
   "procedencia": "Catia",
   "ubicacion": "",
   "ingreso": "28-6-26",
-  "obs": ""
+  "obs": "También registrado como \"Rondón Morales, Jesús\" en el censo del 01-07-2026 (mismo C.I.)."
  },
  {
   "area": "MEDICINA I — Piso 2",
@@ -123,7 +123,7 @@
  {
   "area": "MEDICINA II — Piso 2",
   "nombre": "Castillo, Fani",
-  "cedula": "17.059.190",
+  "cedula": "17.059.190 / 7.059.041",
   "edad": "42",
   "sexo": "F",
   "procedencia": "Propatria",
@@ -178,7 +178,7 @@
  {
   "area": "MEDICINA II — Piso 2",
   "nombre": "Rivas, Amanda",
-  "cedula": "11.921.628",
+  "cedula": "11.921.628 / 11.921.623",
   "edad": "52",
   "sexo": "F",
   "procedencia": "La Vega",
@@ -222,7 +222,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Cabello, Wilbert",
-  "cedula": "27.661.024",
+  "cedula": "27.661.024 / 27.661.029",
   "edad": "26",
   "sexo": "M",
   "procedencia": "Caracas",
@@ -233,7 +233,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Cantillo, Kéter",
-  "cedula": "26.083.196",
+  "cedula": "26.083.196 / 26.683.196",
   "edad": "30",
   "sexo": "M",
   "procedencia": "Baruta",
@@ -244,7 +244,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Cardona, Dayana",
-  "cedula": "14.484.972",
+  "cedula": "14.484.972 / 17.484.972",
   "edad": "42",
   "sexo": "F",
   "procedencia": "La Guaira",
@@ -272,12 +272,12 @@
   "procedencia": "La Guaira",
   "ubicacion": "",
   "ingreso": "25-6-26",
-  "obs": ""
+  "obs": "También registrado como \"Carneiro, Roraima\", C.I. 28.132.141, en el censo del 01-07-2026."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Chacón, Franklin",
-  "cedula": "29.529.749",
+  "cedula": "29.529.749 / 29.529.799",
   "edad": "27",
   "sexo": "M",
   "procedencia": "Caracas",
@@ -288,7 +288,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Chacón, Yonany",
-  "cedula": "23.533.040",
+  "cedula": "23.533.040 / 25.533.040",
   "edad": "36",
   "sexo": "M",
   "procedencia": "Caracas",
@@ -310,7 +310,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Da Silva, Jairo",
-  "cedula": "12.469.678",
+  "cedula": "12.469.678 / 12.459.678",
   "edad": "53",
   "sexo": "M",
   "procedencia": "La Guaira",
@@ -332,7 +332,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Fajardo, Yulianys",
-  "cedula": "24.086.439",
+  "cedula": "24.086.439 / 24.805.439",
   "edad": "33",
   "sexo": "F",
   "procedencia": "La Guaira",
@@ -360,7 +360,7 @@
   "procedencia": "Caracas",
   "ubicacion": "",
   "ingreso": "2-6-26",
-  "obs": ""
+  "obs": "⚠ Verificar identidad en persona: mismo C.I. y edad registrados como \"Farías, Jesús\" en el censo del 01-07-2026."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
@@ -420,7 +420,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Guzmán, Alexander",
-  "cedula": "32.8824 (tal como fue registrado)",
+  "cedula": "32.958.824",
   "edad": "21",
   "sexo": "M",
   "procedencia": "Caracas",
@@ -470,12 +470,12 @@
   "procedencia": "Caracas",
   "ubicacion": "",
   "ingreso": "1-6-26",
-  "obs": ""
+  "obs": "⚠ Verificar en persona: edad registrada como 59 años (en vez de 89) en el censo del 01-07-2026, mismo C.I."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Márquez, Nohelia",
-  "cedula": "16.237.976",
+  "cedula": "16.237.976 / 16.237.796",
   "edad": "43",
   "sexo": "F",
   "procedencia": "Caracas",
@@ -531,7 +531,7 @@
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Montañez, Brayan",
   "cedula": "27.965.399",
-  "edad": "25",
+  "edad": "27",
   "sexo": "M",
   "procedencia": "Caracas",
   "ubicacion": "",
@@ -596,7 +596,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Rey, Reichel",
-  "cedula": "27.474.152",
+  "cedula": "27.474.152 / 27.474.154",
   "edad": "27",
   "sexo": "F",
   "procedencia": "Caracas",
@@ -605,15 +605,15 @@
   "obs": ""
  },
  {
-  "area": "TRAUMATOLOGÍA — Piso 8",
+  "area": "UROLOGÍA — Piso 3",
   "nombre": "San José, Luis",
   "cedula": "16.888.430",
-  "edad": "40",
+  "edad": "50",
   "sexo": "M",
   "procedencia": "La Guaira",
-  "ubicacion": "",
+  "ubicacion": "3ITB",
   "ingreso": "25-6-26",
-  "obs": ""
+  "obs": "Trasladado desde Traumatología — Piso 8; edad actualizada de 40 a 50 según reporte del 01-07-2026."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
@@ -629,7 +629,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Sosa, Carlos",
-  "cedula": "5.891.762",
+  "cedula": "5.891.762 / 589.176",
   "edad": "65",
   "sexo": "M",
   "procedencia": "Caracas",
@@ -646,7 +646,7 @@
   "procedencia": "Caracas",
   "ubicacion": "",
   "ingreso": "15-5-26",
-  "obs": ""
+  "obs": "También registrado como \"Saya, Milton\", C.I. 28.301.019, en el censo del 01-07-2026."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
@@ -1177,7 +1177,7 @@
   "obs": ""
  },
  {
-  "area": "MEDICINA INTERNA",
+  "area": "MEDICINA II — Piso 2",
   "nombre": "Machado, Víctor",
   "cedula": "22.278.330",
   "edad": "",
@@ -1185,7 +1185,7 @@
   "procedencia": "La Guaira",
   "ubicacion": "",
   "ingreso": "",
-  "obs": ""
+  "obs": "Trasladado desde Medicina Interna (según censo del 01-07-2026)."
  },
  {
   "area": "MEDICINA INTERNA",
@@ -1313,7 +1313,7 @@
   "nombre": "Bastidas, Adriana",
   "cedula": "24.015.897",
   "edad": "34",
-  "sexo": "",
+  "sexo": "F",
   "procedencia": "Caracas",
   "ubicacion": "C09",
   "ingreso": "",
@@ -1324,7 +1324,7 @@
   "nombre": "Correa, Deilaner",
   "cedula": "24.015.898",
   "edad": "14",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "La Guaira",
   "ubicacion": "C10",
   "ingreso": "",
@@ -1335,11 +1335,11 @@
   "nombre": "Miñano, Eric",
   "cedula": "24.015.899",
   "edad": "58",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "Caracas",
   "ubicacion": "C08",
   "ingreso": "",
-  "obs": ""
+  "obs": "También registrado como \"Chirino, Eric\", procedencia CCS, en el censo del 01-07-2026."
  },
  {
   "area": "OFTALMOLOGÍA — Piso 5",
@@ -1383,7 +1383,7 @@
   "procedencia": "La Guaira",
   "ubicacion": "615B",
   "ingreso": "",
-  "obs": ""
+  "obs": "⚠ Verificar identidad en persona: mismo nombre registrado con C.I. 12.258.832 en el censo del 01-07-2026."
  },
  {
   "area": "CIRUGÍA PLÁSTICA — Piso 6",
@@ -1434,7 +1434,7 @@
   "nombre": "García, Diego",
   "cedula": "24.015.895",
   "edad": "16",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "La Guaira",
   "ubicacion": "602A",
   "ingreso": "",
@@ -1445,7 +1445,7 @@
   "nombre": "Lozada, Soliany",
   "cedula": "24.015.329",
   "edad": "31",
-  "sexo": "",
+  "sexo": "F",
   "procedencia": "Caracas",
   "ubicacion": "604A",
   "ingreso": "",
@@ -1456,7 +1456,7 @@
   "nombre": "Martínez, Nadiuska",
   "cedula": "24.015.860",
   "edad": "41",
-  "sexo": "",
+  "sexo": "F",
   "procedencia": "La Guaira",
   "ubicacion": "604E",
   "ingreso": "",
@@ -1467,18 +1467,18 @@
   "nombre": "Mondora, Sebastián",
   "cedula": "24.015.861",
   "edad": "13",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "Montalbán",
   "ubicacion": "616A",
   "ingreso": "",
-  "obs": ""
+  "obs": "También registrado como \"Mendoza, Sebastián\" en el censo del 01-07-2026 (mismo C.I.)."
  },
  {
   "area": "CCV",
   "nombre": "Pernia, Yajaira",
   "cedula": "24.015.896",
   "edad": "67",
-  "sexo": "",
+  "sexo": "F",
   "procedencia": "23 de Enero",
   "ubicacion": "604C",
   "ingreso": "",
@@ -1489,7 +1489,7 @@
   "nombre": "Ramírez, Telmo",
   "cedula": "24.014.510",
   "edad": "81",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "Caracas",
   "ubicacion": "618A",
   "ingreso": "",
@@ -1500,7 +1500,7 @@
   "nombre": "Rivero, Jairo",
   "cedula": "24.015.894",
   "edad": "59",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "Ciudad Caribia",
   "ubicacion": "602E",
   "ingreso": "",
@@ -1511,7 +1511,7 @@
   "nombre": "Roque, Jean",
   "cedula": "24.014.791",
   "edad": "21",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "Caracas",
   "ubicacion": "618C",
   "ingreso": "",
@@ -1522,7 +1522,7 @@
   "nombre": "Uzcátegui, José",
   "cedula": "24.015.862",
   "edad": "63",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "La Guaira",
   "ubicacion": "602C",
   "ingreso": "",
@@ -1553,7 +1553,7 @@
  {
   "area": "CDM — Piso 5",
   "nombre": "León, Orlando",
-  "cedula": "2.552.085",
+  "cedula": "2.552.085 / 5.520.085",
   "edad": "81",
   "sexo": "",
   "procedencia": "Antímano",
@@ -1599,7 +1599,7 @@
   "nombre": "Viloria, Eili",
   "cedula": "9.317.754",
   "edad": "62",
-  "sexo": "",
+  "sexo": "M",
   "procedencia": "Caricuao",
   "ubicacion": "502",
   "ingreso": "",
@@ -1625,7 +1625,7 @@
   "procedencia": "",
   "ubicacion": "",
   "ingreso": "",
-  "obs": ""
+  "obs": "Edad registrada como 28 años (en vez de 18) en el censo del 01-07-2026."
  },
  {
   "area": "OBSTETRICIA II",
@@ -2033,5 +2033,192 @@
   "ubicacion": "Cama 6",
   "ingreso": "",
   "obs": "Trasladado desde Traumatología — Piso 8 (antes Cama 8)"
+ },
+ {
+  "area": "CCV",
+  "nombre": "Rodríguez, Marilyn",
+  "cedula": "24.016.012",
+  "edad": "59",
+  "sexo": "F",
+  "procedencia": "Caricuao",
+  "ubicacion": "614-C",
+  "ingreso": "30-6-26",
+  "obs": ""
+ },
+ {
+  "area": "MEDICINA I — Piso 2",
+  "nombre": "Cabellos, Sonia",
+  "cedula": "3.485.112",
+  "edad": "75",
+  "sexo": "F",
+  "procedencia": "Las Adjuntas",
+  "ubicacion": "",
+  "ingreso": "30-06-26",
+  "obs": ""
+ },
+ {
+  "area": "MEDICINA I — Piso 2",
+  "nombre": "Sarmiento, Maryelis",
+  "cedula": "30.678.925",
+  "edad": "21",
+  "sexo": "F",
+  "procedencia": "Las Adjuntas",
+  "ubicacion": "",
+  "ingreso": "30-06-26",
+  "obs": ""
+ },
+ {
+  "area": "OBSTETRICIA II",
+  "nombre": "Fernández, Gladesleth",
+  "cedula": "",
+  "edad": "23",
+  "sexo": "F",
+  "procedencia": "La Vega",
+  "ubicacion": "",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "OBSTETRICIA II",
+  "nombre": "López, Yulianny",
+  "cedula": "",
+  "edad": "29",
+  "sexo": "F",
+  "procedencia": "Ruiz Pineda",
+  "ubicacion": "",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "OBSTETRICIA II",
+  "nombre": "Ramos, Leidimar",
+  "cedula": "",
+  "edad": "18",
+  "sexo": "F",
+  "procedencia": "Antímano",
+  "ubicacion": "",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA PLÁSTICA — Piso 6",
+  "nombre": "Dorante, Erick",
+  "cedula": "34.055.080",
+  "edad": "13",
+  "sexo": "M",
+  "procedencia": "La Guaira",
+  "ubicacion": "",
+  "ingreso": "30-6-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA PLÁSTICA — Piso 6",
+  "nombre": "Sánchez, Carlos",
+  "cedula": "20.976.559",
+  "edad": "34",
+  "sexo": "M",
+  "procedencia": "Antímano",
+  "ubicacion": "",
+  "ingreso": "30-6-26",
+  "obs": ""
+ },
+ {
+  "area": "TRAUMATOLOGÍA — Piso 8",
+  "nombre": "Montoya, Anabella",
+  "cedula": "34.588.982",
+  "edad": "16",
+  "sexo": "",
+  "procedencia": "Caracas",
+  "ubicacion": "801-A",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "TRAUMATOLOGÍA — Piso 8",
+  "nombre": "Salazar, María",
+  "cedula": "13.325.803",
+  "edad": "49",
+  "sexo": "",
+  "procedencia": "Caracas",
+  "ubicacion": "803-A",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "TRAUMATOLOGÍA — Piso 8",
+  "nombre": "Moreno, José",
+  "cedula": "17.556.800",
+  "edad": "45",
+  "sexo": "M",
+  "procedencia": "Caracas",
+  "ubicacion": "813-E",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "TRAUMATOLOGÍA — Piso 8",
+  "nombre": "Rivas, Armando",
+  "cedula": "20.098.909",
+  "edad": "35",
+  "sexo": "M",
+  "procedencia": "Caracas",
+  "ubicacion": "815-A",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "TRAUMATOLOGÍA — Piso 8",
+  "nombre": "Canales, Rubén",
+  "cedula": "10.780.632",
+  "edad": "54",
+  "sexo": "M",
+  "procedencia": "La Guaira Macuto",
+  "ubicacion": "813-C",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "TRAUMATOLOGÍA — Piso 8",
+  "nombre": "Gutiérrez, Fabricio",
+  "cedula": "30.054.846",
+  "edad": "16",
+  "sexo": "M",
+  "procedencia": "La Guaira",
+  "ubicacion": "813-D",
+  "ingreso": "",
+  "obs": "⚠ Posible duplicado: existe otro registro de \"Gutiérrez, Fabricio\" en Medicina Interna con C.I. 34.054.842 y sin edad registrada — verificar si es la misma persona."
+ },
+ {
+  "area": "MEDICINA II — Piso 2",
+  "nombre": "Badillo, Gabriel A.",
+  "cedula": "S/D",
+  "edad": "29",
+  "sexo": "M",
+  "procedencia": "Catia la Mar",
+  "ubicacion": "",
+  "ingreso": "30-06-26",
+  "obs": ""
+ },
+ {
+  "area": "MEDICINA II — Piso 2",
+  "nombre": "Velásquez, José Atanacio",
+  "cedula": "8.865.474",
+  "edad": "79",
+  "sexo": "M",
+  "procedencia": "Catia la Mar",
+  "ubicacion": "",
+  "ingreso": "26-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CDM — Piso 5",
+  "nombre": "Salazar, Joelisi",
+  "cedula": "24.803.600",
+  "edad": "30",
+  "sexo": "F",
+  "procedencia": "",
+  "ubicacion": "508-(2)",
+  "ingreso": "30-06-26",
+  "obs": ""
  }
 ]
