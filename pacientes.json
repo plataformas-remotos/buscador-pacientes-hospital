@@ -17,7 +17,7 @@
   "edad": "15",
   "sexo": "M",
   "procedencia": "La Pastora",
-  "ubicacion": "",
+  "ubicacion": "210-A",
   "ingreso": "23-6-26",
   "obs": ""
  },
@@ -28,7 +28,7 @@
   "edad": "56",
   "sexo": "F",
   "procedencia": "San Martín",
-  "ubicacion": "",
+  "ubicacion": "206-B",
   "ingreso": "19-6-26",
   "obs": ""
  },
@@ -50,7 +50,7 @@
   "edad": "59",
   "sexo": "M",
   "procedencia": "Chacao",
-  "ubicacion": "",
+  "ubicacion": "208-C",
   "ingreso": "23-6-26",
   "obs": "También registrado como \"Stomeo Manrrique, Domingo\", 53 años (en vez de 59), en el censo del 01-07-2026."
  },
@@ -61,7 +61,7 @@
   "edad": "21",
   "sexo": "M",
   "procedencia": "Catia",
-  "ubicacion": "",
+  "ubicacion": "208-B",
   "ingreso": "20-6-26",
   "obs": "⚠ Verificar identidad en persona: mismo C.I. registrado como \"Martínez Ariendez, Maikol\" en el censo del 01-07-2026."
  },
@@ -83,7 +83,7 @@
   "edad": "71",
   "sexo": "M",
   "procedencia": "Catia",
-  "ubicacion": "",
+  "ubicacion": "208-A",
   "ingreso": "28-6-26",
   "obs": "También registrado como \"Rondón Morales, Jesús\" en el censo del 01-07-2026 (mismo C.I.)."
  },
@@ -94,7 +94,7 @@
   "edad": "19",
   "sexo": "F",
   "procedencia": "Catia",
-  "ubicacion": "",
+  "ubicacion": "206-C",
   "ingreso": "29-6-26",
   "obs": ""
  },
@@ -105,7 +105,7 @@
   "edad": "89",
   "sexo": "F",
   "procedencia": "Miranda",
-  "ubicacion": "",
+  "ubicacion": "206-D",
   "ingreso": "28-6-26",
   "obs": ""
  },
@@ -299,7 +299,7 @@
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Cruz, Raiza",
-  "cedula": "3.797.720",
+  "cedula": "3.797.720 / 13.797.720",
   "edad": "74",
   "sexo": "F",
   "procedencia": "Caracas",
@@ -623,7 +623,7 @@
   "sexo": "F",
   "procedencia": "La Guaira",
   "ubicacion": "",
-  "ingreso": "23-6-22 ⚠",
+  "ingreso": "24-06-26",
   "obs": ""
  },
  {
@@ -742,9 +742,9 @@
   "cedula": "",
   "edad": "12 años",
   "sexo": "",
-  "procedencia": "",
-  "ubicacion": "",
-  "ingreso": "",
+  "procedencia": "La Guaira",
+  "ubicacion": "1105-B",
+  "ingreso": "25-06-26",
   "obs": "Madre: Rangel, Pamela"
  },
  {
@@ -775,9 +775,9 @@
   "cedula": "",
   "edad": "9 años",
   "sexo": "",
-  "procedencia": "",
-  "ubicacion": "",
-  "ingreso": "",
+  "procedencia": "CCS",
+  "ubicacion": "1115-E",
+  "ingreso": "28-06-26",
   "obs": "Madre: Torres, Irene"
  },
  {
@@ -815,13 +815,13 @@
  },
  {
   "area": "PEDIATRÍA",
-  "nombre": "Requena, Ailana",
+  "nombre": "Piñate, Aylanna",
   "cedula": "",
   "edad": "2 meses",
   "sexo": "",
-  "procedencia": "",
-  "ubicacion": "",
-  "ingreso": "",
+  "procedencia": "CCS",
+  "ubicacion": "1103-A",
+  "ingreso": "26-04-26",
   "obs": "Madre: Piñate, María"
  },
  {
@@ -830,9 +830,9 @@
   "cedula": "",
   "edad": "10 años",
   "sexo": "",
-  "procedencia": "",
-  "ubicacion": "",
-  "ingreso": "",
+  "procedencia": "La Guaira",
+  "ubicacion": "1113-D",
+  "ingreso": "25-06-26",
   "obs": "Madre: López, Grecia"
  },
  {
@@ -885,9 +885,9 @@
   "cedula": "",
   "edad": "5 años",
   "sexo": "",
-  "procedencia": "",
-  "ubicacion": "",
-  "ingreso": "",
+  "procedencia": "Edo. Sucre",
+  "ubicacion": "1103-B",
+  "ingreso": "23-06-26",
   "obs": "Madre: Mejías, Trangelis"
  },
  {
@@ -1034,15 +1034,15 @@
   "obs": ""
  },
  {
-  "area": "MEDICINA INTERNA",
+  "area": "MEDICINA I — Piso 2",
   "nombre": "Arangure, Reina",
   "cedula": "4.360.722",
   "edad": "",
   "sexo": "",
   "procedencia": "Caricuao",
-  "ubicacion": "",
+  "ubicacion": "206-E",
   "ingreso": "",
-  "obs": ""
+  "obs": "Área corregida: registrada en Medicina Interna en el censo original, pero corresponde a Medicina I — Piso 2 según verificación del 02-07-2026."
  },
  {
   "area": "MEDICINA INTERNA",
@@ -1531,7 +1531,7 @@
  {
   "area": "CDM — Piso 5",
   "nombre": "Avendaño, Marlene",
-  "cedula": "13.828.951",
+  "cedula": "13.828.951 / 13.828.991",
   "edad": "65",
   "sexo": "",
   "procedencia": "La Guaira",
@@ -1542,13 +1542,13 @@
  {
   "area": "CDM — Piso 5",
   "nombre": "Díaz, Sandra",
-  "cedula": "11.638.321",
+  "cedula": "11.638.321 / 11.658.321",
   "edad": "58",
   "sexo": "",
   "procedencia": "La Guaira",
   "ubicacion": "514",
   "ingreso": "",
-  "obs": ""
+  "obs": "Edad también registrada como 53 (en vez de 58) en la verificación del 02-07-2026."
  },
  {
   "area": "CDM — Piso 5",
@@ -1564,7 +1564,7 @@
  {
   "area": "CDM — Piso 5",
   "nombre": "Lozo, Xiel",
-  "cedula": "36.568.121",
+  "cedula": "36.568.121 / 36.558.121",
   "edad": "14",
   "sexo": "",
   "procedencia": "La Guaira",
@@ -1575,7 +1575,7 @@
  {
   "area": "CDM — Piso 5",
   "nombre": "Martínez, Willian",
-  "cedula": "19.367.804",
+  "cedula": "19.367.804 / 19.362.804",
   "edad": "36",
   "sexo": "",
   "procedencia": "La Guaira",
@@ -1619,24 +1619,24 @@
  {
   "area": "OBSTETRICIA II",
   "nombre": "Caballero, Gabriela",
-  "cedula": "883.823",
+  "cedula": "34.638.894",
   "edad": "18 años",
   "sexo": "",
   "procedencia": "",
-  "ubicacion": "",
+  "ubicacion": "408-A",
   "ingreso": "",
   "obs": "Edad registrada como 28 años (en vez de 18) en el censo del 01-07-2026."
  },
  {
   "area": "OBSTETRICIA II",
   "nombre": "Castillo, Liliana",
-  "cedula": "883.838",
+  "cedula": "17.100.321",
   "edad": "41 años",
   "sexo": "",
   "procedencia": "",
-  "ubicacion": "",
+  "ubicacion": "416-A",
   "ingreso": "",
-  "obs": ""
+  "obs": "También escrita \"Lidiana\"; procedencia registrada como Macarao en la verificación del 02-07-2026 (antes Las Adjuntas)."
  },
  {
   "area": "OBSTETRICIA II",
@@ -1663,11 +1663,11 @@
  {
   "area": "OBSTETRICIA II",
   "nombre": "Martínez, Yusmery",
-  "cedula": "Sin cédula",
+  "cedula": "1.944.5391",
   "edad": "44 años",
   "sexo": "",
   "procedencia": "",
-  "ubicacion": "",
+  "ubicacion": "402-C",
   "ingreso": "",
   "obs": ""
  },
@@ -1872,13 +1872,13 @@
  {
   "area": "NEURO II",
   "nombre": "Mignai, Yenny",
-  "cedula": "6.903.401",
+  "cedula": "6.903.401 / 6.903.404",
   "edad": "59",
   "sexo": "F",
   "procedencia": "La Guaira",
   "ubicacion": "709 (C)",
   "ingreso": "25-06-26",
-  "obs": ""
+  "obs": "También registrada como \"Manori, Yenny\" en la verificación del 02-07-2026."
  },
  {
   "area": "NEURO II",
@@ -2063,40 +2063,40 @@
   "edad": "21",
   "sexo": "F",
   "procedencia": "Las Adjuntas",
-  "ubicacion": "",
+  "ubicacion": "206-A",
   "ingreso": "30-06-26",
   "obs": ""
  },
  {
   "area": "OBSTETRICIA II",
   "nombre": "Fernández, Gladesleth",
-  "cedula": "",
+  "cedula": "29.841.892",
   "edad": "23",
   "sexo": "F",
   "procedencia": "La Vega",
-  "ubicacion": "",
+  "ubicacion": "404-C",
   "ingreso": "",
   "obs": ""
  },
  {
   "area": "OBSTETRICIA II",
   "nombre": "López, Yulianny",
-  "cedula": "",
+  "cedula": "25.214.518",
   "edad": "29",
   "sexo": "F",
   "procedencia": "Ruiz Pineda",
-  "ubicacion": "",
+  "ubicacion": "404-D",
   "ingreso": "",
   "obs": ""
  },
  {
   "area": "OBSTETRICIA II",
   "nombre": "Ramos, Leidimar",
-  "cedula": "",
+  "cedula": "32.976.505",
   "edad": "18",
   "sexo": "F",
   "procedencia": "Antímano",
-  "ubicacion": "",
+  "ubicacion": "404-E",
   "ingreso": "",
   "obs": ""
  },
@@ -2131,7 +2131,7 @@
   "procedencia": "Caracas",
   "ubicacion": "801-A",
   "ingreso": "",
-  "obs": ""
+  "obs": "También aparece listada en Cirugía I — Piso 9 con habitación 904 (la fuente indica que esta ubicación no concuerda con el resto de esa lista) — verificar ubicación real."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
@@ -2494,6 +2494,149 @@
   "procedencia": "Catedral",
   "ubicacion": "313-C",
   "ingreso": "29/06/26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA I — Piso 9",
+  "nombre": "Bueno, Merdo",
+  "cedula": "17.158.286",
+  "edad": "49",
+  "sexo": "M",
+  "procedencia": "CCS",
+  "ubicacion": "917-A",
+  "ingreso": "24-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA I — Piso 9",
+  "nombre": "Espinoza, Ivonne",
+  "cedula": "16.704.128",
+  "edad": "42",
+  "sexo": "F",
+  "procedencia": "La Guaira",
+  "ubicacion": "915-C",
+  "ingreso": "24-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA I — Piso 9",
+  "nombre": "Franco, Héctor",
+  "cedula": "18.709.157",
+  "edad": "38",
+  "sexo": "M",
+  "procedencia": "CCS",
+  "ubicacion": "917-D",
+  "ingreso": "24-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA I — Piso 9",
+  "nombre": "Ivon, Inelis",
+  "cedula": "20.088.774",
+  "edad": "38",
+  "sexo": "F",
+  "procedencia": "La Guaira",
+  "ubicacion": "915-B",
+  "ingreso": "24-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA I — Piso 9",
+  "nombre": "Leal, Dollis",
+  "cedula": "10.491.896",
+  "edad": "56",
+  "sexo": "F",
+  "procedencia": "Charallave",
+  "ubicacion": "915-D",
+  "ingreso": "27-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA I — Piso 9",
+  "nombre": "Ramos, Félix",
+  "cedula": "13.826.060",
+  "edad": "50",
+  "sexo": "M",
+  "procedencia": "La Guaira",
+  "ubicacion": "917-C",
+  "ingreso": "24-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA I — Piso 9",
+  "nombre": "Tolozar, José",
+  "cedula": "5.790.378",
+  "edad": "61",
+  "sexo": "M",
+  "procedencia": "CCS",
+  "ubicacion": "917-B",
+  "ingreso": "21-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA I — Piso 9",
+  "nombre": "Toro, Valeska",
+  "cedula": "34.002.798",
+  "edad": "14",
+  "sexo": "F",
+  "procedencia": "La Guaira",
+  "ubicacion": "915-A",
+  "ingreso": "25-06-26",
+  "obs": ""
+ },
+ {
+  "area": "OBSTETRICIA II",
+  "nombre": "Echezuría, Daniela",
+  "cedula": "30.296.707",
+  "edad": "",
+  "sexo": "F",
+  "procedencia": "Charallave",
+  "ubicacion": "416-C",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "OBSTETRICIA II",
+  "nombre": "González, Liseth",
+  "cedula": "18.910.073",
+  "edad": "",
+  "sexo": "F",
+  "procedencia": "El Junquito",
+  "ubicacion": "412-B",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "OBSTETRICIA II",
+  "nombre": "Meneses, Melanie",
+  "cedula": "32.151.847",
+  "edad": "",
+  "sexo": "F",
+  "procedencia": "La Vega",
+  "ubicacion": "412-C",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "OBSTETRICIA II",
+  "nombre": "Rojas, Aries",
+  "cedula": "31.380.120",
+  "edad": "",
+  "sexo": "F",
+  "procedencia": "La Guaira",
+  "ubicacion": "406-A",
+  "ingreso": "1-7-26",
+  "obs": ""
+ },
+ {
+  "area": "OBSTETRICIA II",
+  "nombre": "Rojas, Theisy",
+  "cedula": "29.698.062",
+  "edad": "",
+  "sexo": "F",
+  "procedencia": "La Vega",
+  "ubicacion": "412-A",
+  "ingreso": "",
   "obs": ""
  }
 ]
