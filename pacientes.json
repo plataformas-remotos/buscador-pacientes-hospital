@@ -1,14 +1,14 @@
 [
  {
-  "area": "MEDICINA I — Piso 2",
+  "area": "CIRUGÍA IV — Piso 10",
   "nombre": "Díaz G., Eduardo",
   "cedula": "29.881.914",
   "edad": "26",
   "sexo": "M",
   "procedencia": "Junquito",
   "ubicacion": "",
-  "ingreso": "11-6-26",
-  "obs": ""
+  "ingreso": "01-7-26",
+  "obs": "Trasladado desde Medicina I — Piso 2."
  },
  {
   "area": "MEDICINA I — Piso 2",
@@ -209,15 +209,15 @@
   "obs": ""
  },
  {
-  "area": "TRAUMATOLOGÍA — Piso 8",
+  "area": "CIRUGÍA II — Piso 9",
   "nombre": "Avendaño, Leidy",
   "cedula": "Sin documentos",
-  "edad": "",
+  "edad": "21",
   "sexo": "",
   "procedencia": "La Guaira",
   "ubicacion": "",
   "ingreso": "",
-  "obs": ""
+  "obs": "Trasladada desde Traumatología — Piso 8."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
@@ -322,7 +322,7 @@
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Delgado, Berencia",
   "cedula": "3.403.945",
-  "edad": "85",
+  "edad": "84",
   "sexo": "F",
   "procedencia": "Caracas",
   "ubicacion": "",
@@ -353,14 +353,14 @@
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
-  "nombre": "Farías, Luis",
+  "nombre": "Farías, Jesús",
   "cedula": "12.150.594",
   "edad": "54",
   "sexo": "M",
   "procedencia": "Caracas",
   "ubicacion": "",
   "ingreso": "2-6-26",
-  "obs": "⚠ Verificar identidad en persona: mismo C.I. y edad registrados como \"Farías, Jesús\" en el censo del 01-07-2026."
+  "obs": "⚠ Verificar identidad en persona: este registro figuraba como \"Farías, Luis\" en el censo del 30-06-2026, pero dos reportes posteriores (01-07 y 03-07-2026) coinciden en \"Farías, Jesús\"."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
@@ -421,7 +421,7 @@
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Guzmán, Alexander",
   "cedula": "32.958.824",
-  "edad": "21",
+  "edad": "24",
   "sexo": "M",
   "procedencia": "Caracas",
   "ubicacion": "",
@@ -454,9 +454,9 @@
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "López, José",
   "cedula": "6.553.194",
-  "edad": "61",
+  "edad": "63",
   "sexo": "M",
-  "procedencia": "",
+  "procedencia": "CCS",
   "ubicacion": "(805)",
   "ingreso": "",
   "obs": ""
@@ -531,7 +531,7 @@
   "area": "TRAUMATOLOGÍA — Piso 8",
   "nombre": "Montañez, Brayan",
   "cedula": "27.965.399",
-  "edad": "27",
+  "edad": "25",
   "sexo": "M",
   "procedencia": "Caracas",
   "ubicacion": "",
@@ -606,14 +606,14 @@
  },
  {
   "area": "UROLOGÍA — Piso 3",
-  "nombre": "San José, Luis",
+  "nombre": "Sosa, José",
   "cedula": "16.888.430",
   "edad": "50",
   "sexo": "M",
   "procedencia": "La Guaira",
   "ubicacion": "3ITB",
   "ingreso": "25-6-26",
-  "obs": "Trasladado desde Traumatología — Piso 8; edad actualizada de 40 a 50 según reporte del 01-07-2026."
+  "obs": "Trasladado desde Traumatología — Piso 8; edad actualizada de 40 a 50 según reporte del 01-07-2026. También registrado como \"San José, Luis\" en el censo original (30-06-2026) y como \"Sosa, José Wis\" en el reporte del 03-07-2026."
  },
  {
   "area": "TRAUMATOLOGÍA — Piso 8",
@@ -1694,7 +1694,7 @@
   "obs": ""
  },
  {
-  "area": "TRAUMA SHOCK",
+  "area": "CIRUGÍA II — Piso 9",
   "nombre": "Orama, Edward",
   "cedula": "V-31.130.862",
   "edad": "19 años",
@@ -1702,10 +1702,10 @@
   "procedencia": "Tenequarenas",
   "ubicacion": "Cama 4",
   "ingreso": "",
-  "obs": ""
+  "obs": "Trasladado desde Trauma Shock."
  },
  {
-  "area": "CIRUGÍA — Piso 1",
+  "area": "CIRUGÍA II — Piso 9",
   "nombre": "Cárdenas, Yorman",
   "cedula": "15.579.321",
   "edad": "44",
@@ -1713,7 +1713,7 @@
   "procedencia": "El Valle",
   "ubicacion": "918-B",
   "ingreso": "",
-  "obs": ""
+  "obs": "Área corregida: registrado como \"Cirugía — Piso 1\" en el censo original, pero corresponde a Cirugía II — Piso 9 según verificación del 02-07-2026."
  },
  {
   "area": "CIRUGÍA — Piso 1",
@@ -1727,7 +1727,7 @@
   "obs": ""
  },
  {
-  "area": "CIRUGÍA — Piso 1",
+  "area": "CIRUGÍA II — Piso 9",
   "nombre": "Dabatón, Narciso",
   "cedula": "8.308.217",
   "edad": "73",
@@ -1735,10 +1735,10 @@
   "procedencia": "La Candelaria",
   "ubicacion": "902-A",
   "ingreso": "",
-  "obs": ""
+  "obs": "Área corregida: registrado como \"Cirugía — Piso 1\" en el censo original, pero corresponde a Cirugía II — Piso 9 según verificación del 02-07-2026."
  },
  {
-  "area": "CIRUGÍA — Piso 1",
+  "area": "CIRUGÍA II — Piso 9",
   "nombre": "Rodríguez, Yohao",
   "cedula": "E-1.017.321",
   "edad": "76",
@@ -1746,7 +1746,7 @@
   "procedencia": "La Candelaria",
   "ubicacion": "916-C",
   "ingreso": "",
-  "obs": ""
+  "obs": "Área corregida: registrado como \"Cirugía — Piso 1\" en el censo original, pero corresponde a Cirugía II — Piso 9 según verificación del 02-07-2026. También registrado como \"Rodríguez, Yohero\" en la verificación del 02-07-2026."
  },
  {
   "area": "UROLOGÍA — Piso 3",
@@ -2024,7 +2024,7 @@
   "obs": ""
  },
  {
-  "area": "TRAUMA SHOCK",
+  "area": "CIRUGÍA IV — Piso 10",
   "nombre": "Stabilito, Amílcar",
   "cedula": "23.241.059",
   "edad": "61 años",
@@ -2032,7 +2032,7 @@
   "procedencia": "La Guaira",
   "ubicacion": "Cama 6",
   "ingreso": "",
-  "obs": "Trasladado desde Traumatología — Piso 8 (antes Cama 8)"
+  "obs": "Trasladado desde Traumatología — Piso 8 (antes Cama 8) Trasladado nuevamente, ahora a Cirugía IV — Piso 10 (antes en Trauma Shock y Traumatología)."
  },
  {
   "area": "CCV",
@@ -2138,10 +2138,10 @@
   "nombre": "Salazar, María",
   "cedula": "13.325.803",
   "edad": "49",
-  "sexo": "",
+  "sexo": "F",
   "procedencia": "Caracas",
   "ubicacion": "803-A",
-  "ingreso": "",
+  "ingreso": "29/06/26",
   "obs": ""
  },
  {
@@ -2219,6 +2219,281 @@
   "procedencia": "",
   "ubicacion": "508-(2)",
   "ingreso": "30-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA II — Piso 9",
+  "nombre": "Ascanio, José",
+  "cedula": "12.784.004",
+  "edad": "43",
+  "sexo": "M",
+  "procedencia": "Carapita",
+  "ubicacion": "",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA II — Piso 9",
+  "nombre": "Brito, Basilisa",
+  "cedula": "5.078.778",
+  "edad": "78",
+  "sexo": "F",
+  "procedencia": "Caricuao",
+  "ubicacion": "",
+  "ingreso": "",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA II — Piso 9",
+  "nombre": "Correa, Daiker",
+  "cedula": "34.054.478",
+  "edad": "14",
+  "sexo": "M",
+  "procedencia": "La Guaira",
+  "ubicacion": "912-B",
+  "ingreso": "01/07/26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA II — Piso 9",
+  "nombre": "Orozco, Rosalinda",
+  "cedula": "6.361.256",
+  "edad": "69",
+  "sexo": "F",
+  "procedencia": "Santa Rosa del Tuy",
+  "ubicacion": "904-D",
+  "ingreso": "01/07/26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA II — Piso 9",
+  "nombre": "Rangel, Yovani",
+  "cedula": "17.674.304",
+  "edad": "43",
+  "sexo": "M",
+  "procedencia": "La Vega",
+  "ubicacion": "902-D",
+  "ingreso": "30/06/26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA III",
+  "nombre": "Morillo, Pedro",
+  "cedula": "9.957.435",
+  "edad": "58",
+  "sexo": "M",
+  "procedencia": "La Vega",
+  "ubicacion": "",
+  "ingreso": "27-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA III",
+  "nombre": "Ramos, Ismael",
+  "cedula": "13.555.266",
+  "edad": "50",
+  "sexo": "M",
+  "procedencia": "Catia CCS",
+  "ubicacion": "",
+  "ingreso": "27-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Bravo, Sonia",
+  "cedula": "6.375.780",
+  "edad": "69",
+  "sexo": "M",
+  "procedencia": "Caracas (Artigas)",
+  "ubicacion": "",
+  "ingreso": "08-06-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Carrillo, Naileth",
+  "cedula": "16.952.514",
+  "edad": "42",
+  "sexo": "F",
+  "procedencia": "Caracas (Pérez Bonalde)",
+  "ubicacion": "",
+  "ingreso": "21-5-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Cedeño, Simón",
+  "cedula": "1.451.722",
+  "edad": "87",
+  "sexo": "M",
+  "procedencia": "La Guaira (Catia La Mar)",
+  "ubicacion": "",
+  "ingreso": "28-6-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "D'nóbrega, Laurinda",
+  "cedula": "9.769.961",
+  "edad": "74",
+  "sexo": "F",
+  "procedencia": "Caracas (Vista Alegre)",
+  "ubicacion": "",
+  "ingreso": "01-7-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Martínez, Marlins",
+  "cedula": "10.576.899",
+  "edad": "57",
+  "sexo": "F",
+  "procedencia": "La Guaira (Playa Grande)",
+  "ubicacion": "",
+  "ingreso": "28-6-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Murillo, Gladys",
+  "cedula": "6.553.198",
+  "edad": "75",
+  "sexo": "M",
+  "procedencia": "Caracas (Los Rosales)",
+  "ubicacion": "",
+  "ingreso": "01-7-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Ochoa, Zoraida",
+  "cedula": "4.886.205",
+  "edad": "69",
+  "sexo": "F",
+  "procedencia": "Caracas (La Pastora)",
+  "ubicacion": "",
+  "ingreso": "21-6-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Olivares, Maikol",
+  "cedula": "26.809.541",
+  "edad": "27",
+  "sexo": "M",
+  "procedencia": "La Guaira",
+  "ubicacion": "",
+  "ingreso": "27-6-26",
+  "obs": "Politraumatismo (según reporte)."
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Osecha, Anderly",
+  "cedula": "29.933.537",
+  "edad": "24",
+  "sexo": "F",
+  "procedencia": "Caracas (Los Jardines del Valle)",
+  "ubicacion": "",
+  "ingreso": "24-6-26",
+  "obs": ""
+ },
+ {
+  "area": "CIRUGÍA IV — Piso 10",
+  "nombre": "Rodríguez, José",
+  "cedula": "1.863.027",
+  "edad": "90",
+  "sexo": "M",
+  "procedencia": "Caracas (Bellas Artes)",
+  "ubicacion": "",
+  "ingreso": "11/06/26",
+  "obs": ""
+ },
+ {
+  "area": "UROLOGÍA — Piso 3",
+  "nombre": "Abello, Edgar",
+  "cedula": "6.091.103",
+  "edad": "67",
+  "sexo": "M",
+  "procedencia": "San Agustín",
+  "ubicacion": "313-D",
+  "ingreso": "29/06/26",
+  "obs": ""
+ },
+ {
+  "area": "UROLOGÍA — Piso 3",
+  "nombre": "Brazón, Edith",
+  "cedula": "9.416.960",
+  "edad": "56",
+  "sexo": "F",
+  "procedencia": "Montalbán",
+  "ubicacion": "311-D",
+  "ingreso": "11/06/26",
+  "obs": ""
+ },
+ {
+  "area": "UROLOGÍA — Piso 3",
+  "nombre": "Crespo, Carlos",
+  "cedula": "3.154.317",
+  "edad": "78",
+  "sexo": "M",
+  "procedencia": "La Candelaria",
+  "ubicacion": "317-E",
+  "ingreso": "01/02/26",
+  "obs": ""
+ },
+ {
+  "area": "UROLOGÍA — Piso 3",
+  "nombre": "Ferrer, Xiomara",
+  "cedula": "5.593.164",
+  "edad": "67",
+  "sexo": "F",
+  "procedencia": "Catia",
+  "ubicacion": "311-A",
+  "ingreso": "30/06/26",
+  "obs": "⚠ Posible duplicado: existe otro registro de \"Ferrer, Xiomara\", 67 años, en Obstetricia II con C.I. 883.843 — verificar si es la misma persona."
+ },
+ {
+  "area": "UROLOGÍA — Piso 3",
+  "nombre": "López, Glimar",
+  "cedula": "15.831.306",
+  "edad": "42",
+  "sexo": "F",
+  "procedencia": "La Guaira",
+  "ubicacion": "311-B",
+  "ingreso": "26/06/26",
+  "obs": ""
+ },
+ {
+  "area": "UROLOGÍA — Piso 3",
+  "nombre": "Rengifo, José",
+  "cedula": "13.432.576",
+  "edad": "70",
+  "sexo": "M",
+  "procedencia": "Los Teques",
+  "ubicacion": "313-E",
+  "ingreso": "18/06/26",
+  "obs": ""
+ },
+ {
+  "area": "UROLOGÍA — Piso 3",
+  "nombre": "Romero, Francisca",
+  "cedula": "6.994.882",
+  "edad": "61",
+  "sexo": "F",
+  "procedencia": "Ocumare",
+  "ubicacion": "311-F",
+  "ingreso": "01/07/26",
+  "obs": ""
+ },
+ {
+  "area": "UROLOGÍA — Piso 3",
+  "nombre": "Vargas, Félix",
+  "cedula": "966.799",
+  "edad": "94",
+  "sexo": "M",
+  "procedencia": "Catedral",
+  "ubicacion": "313-C",
+  "ingreso": "29/06/26",
   "obs": ""
  }
 ]
